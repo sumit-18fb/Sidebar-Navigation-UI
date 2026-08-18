@@ -36,3 +36,11 @@ sidebar-navigation-ui/
 ├── style.css
 ├── HOME.jpg
 └── README.md
+
+
+
+## 🚧 Project Status
+
+**⚠️ Work in Progress — Partially Completed**
+
+This project is currently **halfly completed**. The basic user interface and currency selection functionality have been created, but some JavaScript functionality is still under development.
