@@ -33,7 +33,7 @@ It includes:
 
 - HTML5
 - CSS3
-- Font Awesome
+- Font Awesome Icons
 
 ## 📂 Project Structure
 
